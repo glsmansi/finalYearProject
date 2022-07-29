@@ -1,1 +1,7 @@
 # finalYearProject
+
+Software Defined Networking is a new networking paradigm that has emerged recently as a promising solution for tackling the inflexibility of the classical IP networks. The centralized approach of SDN yields a broad area for intelligence to optimize the network at various levels. Fault tolerance is considered one of the most cur- rent research challenges that facing the SDN, hence, in this paper we introduce a new method that computes an alternative path reactively for centrally controlled networks like SDN. The proposed method aims to reduce the update operation cost that the SDN network controller would spend in order to recover from a single link failure. Through utilizing the principle of community detection, we define a new network model for the sake of improving the network’s fault tolerance capability. An experimental study is reported showing the performance of the proposed method. Based on the results, some further directions are suggested in the context of machine learning towards achieving further advances in this research area.
+
+The switches should connect the hosts (prefer camera) to each other with active SDN controller. The switches that should be used is called Open-v-Switch (OVS). The OVS is a manufacturing quality designed to enable huge network automation by way of programmatic extension, while still supporting standard interfaces and protocols. 
+
+  
